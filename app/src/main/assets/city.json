@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Hassan",
+    "lat": "14.99",
+    "long": "79.99",
+    "temp": 19,
+    "humidity": "97%"
+  },
+  {
+    "name": "Mandya",
+    "lat": "16.99",
+    "long": "89.99",
+    "temp": 23,
+    "humidity": "87%"
+  }
+]
